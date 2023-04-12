@@ -1,10 +1,6 @@
 
-<h1 align="center"><b>Hello, I'm Nolan CACHEUX</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hello, I'm Nolan CACHEUX</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><img src="handshake.gif" width ="80"></h1>
 
-<br>
-
-## <b> Let's Connect..!</b><img src="handshake.gif" width ="80">
-<br>
 <div align='center'>
 
 <a href="https://linkedin.com/in/nolancacheux" target="_blank">
