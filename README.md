@@ -3,6 +3,27 @@
 
 <br>
 
+## <b> Let's Connect..!</b><img src="handshake.gif" width ="80">
+<br>
+<div align='left'>
+
+<ul>
+
+<li>
+<a href="https://linkedin.com/in/nolancacheux" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  nolancacheux-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+</li>
+<li>
+<a href="mailto:cachnolan@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  cachnolan@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+</li>
+	
+
+</ul>
+</div>
+
 ## <picture><img src = "about_me.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="/Right_Side.gif" width = 250px></picture>
@@ -50,36 +71,6 @@ My involvement in sports has instilled in me the values of teamwork, perseveranc
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nolancacheux&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="nolancacheux"/>
 
 </a>
-</div>
-
-<br>
-<br>
-<br>
-
------
-
-<br>
-<br>
-
-## <b> Let's Connect..!</b><img src="handshake.gif" width ="80">
-<br>
-<div align='left'>
-
-<ul>
-
-<li>
-<a href="https://linkedin.com/in/nolancacheux" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  nolancacheux-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-<li>
-<a href="mailto:cachnolan@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  cachnolan@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-
-</ul>
 </div>
 
 <br>
