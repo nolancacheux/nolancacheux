@@ -5,7 +5,7 @@
 
 ## <b> Let's Connect..!</b><img src="handshake.gif" width ="80">
 <br>
-<div align='left'>
+<div align='center'>
 
 <a href="https://linkedin.com/in/nolancacheux" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  nolancacheux-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
