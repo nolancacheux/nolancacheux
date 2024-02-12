@@ -22,9 +22,9 @@
 
 - A dedicated developer hailing from France
 
-- I am currently pursuing my second year in Computer Engineering at ISEN.
+- I am currently pursuing my third year in Computer Engineering at ISEN.
 
-- My enthusiasm for artificial intelligence, data, and cutting-edge technologies inspires me to focus on these specific fields, with a particular emphasis on data science. At present, I am delving into data science with the aim of working for two months in Belgium within the data sector.
+- My enthusiasm for artificial intelligence, data, and cutting-edge technologies inspires me to focus on these specific fields, with a particular emphasis on data science. 
 
 - Additionally, I have a keen interest in web development, with a primary focus on backend development.
 
