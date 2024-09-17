@@ -1,4 +1,3 @@
-
 <h1 align="center"><b>Hello, I'm Nolan CACHEUX  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><img src="handshake.gif" width ="80"></h1>
 
 <div align='center'>
@@ -22,16 +21,19 @@
 
 - A dedicated developer hailing from France
 
-- I am currently pursuing my third year in Computer Engineering at ISEN.
+- I am currently pursuing my fourth year in Master 1 Big Data | Data Science with an Expert profile at ISEN.
 
-- My enthusiasm for artificial intelligence, data, and cutting-edge technologies inspires me to focus on these specific fields, with a particular emphasis on data science. 
+- I am actively seeking a 3-4 month internship from May to August 2024.
+
+- My enthusiasm for artificial intelligence, data science, and cutting-edge technologies inspires me to focus on these specific fields.
 
 - Additionally, I have a keen interest in web development, with a primary focus on backend development.
 
 - I am presently working on a web application that analyzes emotions and generates recommendations: [myGPTEmotions](https://github.com/nolancacheux/myGPTEmotions)
 
-- Apart from my technical pursuits, I have been practicing "[Freestyle Football](https://fr.wikipedia.org/wiki/Football_freestyle)" for the past six years and have held the title of [World Junior Champion in 2019](https://www.bing.com/search?q=nolan+champion+du+monde+freestyle+football+&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=nolan+champion+du+monde+freestyle+football+&sc=6-43&sk=&cvid=FC4506EE0AE34F629F64346143721389&ghsh=0&ghacc=0&ghpl=). My personal website can be found at [nolanfree.fr](https://nolanfree.fr). Furthermore, I represent the [Nolan-Free](https://www.facebook.com/associationnolanfree/) association to foster the growth and promotion of freestyle football.
-To keep up with my performances and engagements, please follow me on [Instagram](https://www.instagram.com/nolanfree/), [Facebook](https://www.facebook.com/nolanfree7/ ), and [Youtube](https://www.youtube.com/channel/UCkXt7B3si6mX6377VW0aqMg) under the moniker NolanFree.
+- Apart from my technical pursuits, I have been practicing "[Freestyle Football](https://fr.wikipedia.org/wiki/Football_freestyle)" for the past eight years and have held the title of [World Junior Champion in 2019](https://www.bing.com/search?q=nolan+champion+du+monde+freestyle+football+&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=nolan+champion+du+monde+freestyle+football+&sc=6-43&sk=&cvid=FC4506EE0AE34F629F64346143721389&ghsh=0&ghacc=0&ghpl=).
+Also, I currently hold the titles of [Vice-Champion of France 2024](https://www.bing.com/search?q=nolan+vice+champion+france+freestyle+football) and [Top 6 in Europe 2024](https://www.bing.com/search?q=nolan+top+6+europe+freestyle+football). My personal website can be found at [nolanfree.fr](https://nolanfree.fr). Furthermore, I represent the [Nolan-Free](https://www.facebook.com/associationnolanfree/) association to foster the growth and promotion of freestyle football.
+To keep up with my performances and engagements, please follow me on [Instagram](https://www.instagram.com/nolanfree/), [Facebook](https://www.facebook.com/nolanfree7/), and [Youtube](https://www.youtube.com/channel/UCkXt7B3si6mX6377VW0aqMg) under the moniker NolanFree.
 My involvement in sports has instilled in me the values of teamwork, perseverance, and diligence.
 
 <br><br>
@@ -67,4 +69,4 @@ My involvement in sports has instilled in me the values of teamwork, perseveranc
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-CACHEUX Nolan , 2023
+CACHEUX Nolan , 2024
