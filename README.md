@@ -48,6 +48,35 @@ Following a successful 3-month internship at **Decathlon Belgium** where I devel
 
 ---
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description |
+|:--------|:-----------|
+| [**Rag-Equity-Research-Agent**](https://github.com/nolancacheux/Rag-Equity-Research-Agent) | Autonomous equity research agent with multi-source analysis, LangGraph orchestration, hybrid RAG, and Telegram bot. Deployed on Azure. |
+| [**AI-Video-Comment-Analyzer**](https://github.com/nolancacheux/AI-Video-Comment-Analyzer) | YouTube comment analysis with BERT sentiment detection, BERTopic clustering, and Ollama summaries. Next.js + FastAPI. |
+| [**AI-Chess-Assistant**](https://github.com/nolancacheux/AI-Chess-Assistant) | Chrome extension integrating Stockfish with chess.com for real-time move analysis, evaluation, and educational insights. |
+| [**AI-Product-Photo-Detector**](https://github.com/nolancacheux/AI-Product-Photo-Detector) | MLOps pipeline for detecting AI-generated product images. EfficientNet-B0, FastAPI, MLflow, Docker Compose. |
+| [**AI-Visualizer-Neural-Network-Architecture**](https://github.com/nolancacheux/AI-Visualizer-Neural-Network-Architecture) | Interactive 3D educational platform for understanding Deep Learning architectures. Next.js + Three.js. |
+| [**distributed-data-platform**](https://github.com/nolancacheux/distributed-data-platform) | Enterprise-grade distributed data platform with multi-database architecture, ELT pipelines, and Kubernetes orchestration. |
+
+</div>
+
+<div align="center">
+  <a href="https://portfolio-nolan-cacheuxs-projects.vercel.app">
+    <img src="https://img.shields.io/badge/🌐%20View%20Full%20Portfolio-4285F4?style=for-the-badge&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/💼%20Available%20for%20Freelance-AI%2FML%20Engineering%20·%20RAG%20·%20LLM%20·%20Agents-FF6B6B?style=for-the-badge" />
+</div>
+
+---
+
 ## Current Position @ Decathlon
 
 <div align="center">
@@ -124,7 +153,7 @@ During my 3-month internship at **Decathlon Belgium** (2025), I designed and imp
   <a href="mailto:nolan.cacheux@decathlon.com">
     <img src="https://img.shields.io/badge/Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://nolanfree.fr">
+  <a href="https://portfolio-nolan-cacheuxs-projects.vercel.app">
     <img src="https://img.shields.io/badge/Visit%20Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />
   </a>
 </div>
