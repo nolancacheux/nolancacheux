@@ -1,57 +1,184 @@
+<!-- Header Animation -->
 <div align="center">
-  <img src="./header.png" width="100%" alt="Nolan Cacheux - AI & ML Engineer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Nolan%20Cacheux&fontSize=90&fontAlignY=35&desc=Data%20Scientist%20%7C%20AI/ML%20Engineering%20@%20Decathlon&descAlignY=55&animation=fadeIn" />
+</div>
+
+
+
+<!-- Social Badges -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/nolan-cacheux-aa40a9235">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:cachnolan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/nolancacheux">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+    <a href="https://nolanfree.fr">
+    <img src="https://img.shields.io/badge/Freestyle-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Freestyle" />
+  </a>
+</div>
+
+<br/>
+
+## About Me
+
+
+
+I'm a **Data Scientist & ML Engineering** specialist at **Decathlon France** on a one-year professional training contract, passionate about transforming data into actionable insights and building production-ready ML solutions. Currently pursuing my **Master 2 in Data Science at JUNIA**, I specialize in developing end-to-end machine learning pipelines that drive business value.
+
+Following a successful 3-month internship at **Decathlon Belgium** where I developed an automated sales forecasting pipeline, I'm now continuing my journey with Decathlon France to deepen my expertise in DS/ML engineering and production systems.
+
+### What I Do:
+- **Design robust and scalable DS/ML solutions** - Creating architectures that scale with business needs
+- **Develop, validate, and implement DS/ML solutions** - End-to-end model development from POC to production
+- **Monitor, maintain, and continuously improve DS/ML solutions** - Ensuring optimal performance and business value
+- **Understand and define business problems and opportunities** - Translating business challenges into data science solutions
+- **Communicate insights, document solutions, and foster data literacy** - Bridging the gap between technical and business teams
+
+### Beyond Tech:
+- **World Junior Freestyle Football Champion 2019**
+- **Vice-Champion of France 2024**
+- **Top 6 Europe 2024**
+- Founder of Nolan-Free Association - Promoting sports and creativity
+
+<br clear="right"/>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description |
+|:--------|:-----------|
+| [**Rag-Equity-Research-Agent**](https://github.com/nolancacheux/Rag-Equity-Research-Agent) | Autonomous equity research agent with multi-source analysis, LangGraph orchestration, hybrid RAG, and Telegram bot. Deployed on Azure. |
+| [**AI-Video-Comment-Analyzer**](https://github.com/nolancacheux/AI-Video-Comment-Analyzer) | YouTube comment analysis with BERT sentiment detection, BERTopic clustering, and Ollama summaries. Next.js + FastAPI. |
+| [**AI-Chess-Assistant**](https://github.com/nolancacheux/AI-Chess-Assistant) | Chrome extension integrating Stockfish with chess.com for real-time move analysis, evaluation, and educational insights. |
+| [**AI-Product-Photo-Detector**](https://github.com/nolancacheux/AI-Product-Photo-Detector) | MLOps pipeline for detecting AI-generated product images. EfficientNet-B0, FastAPI, MLflow, Docker Compose. |
+| [**AI-Visualizer-Neural-Network-Architecture**](https://github.com/nolancacheux/AI-Visualizer-Neural-Network-Architecture) | Interactive 3D educational platform for understanding Deep Learning architectures. Next.js + Three.js. |
+| [**distributed-data-platform**](https://github.com/nolancacheux/distributed-data-platform) | Enterprise-grade distributed data platform with multi-database architecture, ELT pipelines, and Kubernetes orchestration. |
+
+</div>
+
+<div align="center">
+  <a href="https://portfolio-nolan-cacheuxs-projects.vercel.app">
+    <img src="https://img.shields.io/badge/🌐%20View%20Full%20Portfolio-4285F4?style=for-the-badge&logoColor=white" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/nolancacheux">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:cachnolan@gmail.com">cachnolan@gmail.com</a> &nbsp;·&nbsp;
-  <a href="https://portfolio-nolan-cacheuxs-projects.vercel.app">Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://nolanfree.fr">Freestyle</a>
+  <img src="https://img.shields.io/badge/💼%20Available%20for%20Freelance-AI%2FML%20Engineering%20·%20RAG%20·%20LLM%20·%20Agents-FF6B6B?style=for-the-badge" />
 </div>
 
-<br/>
+---
 
-I build production-grade ML systems: RAG pipelines, LLM agents, forecasting models, and MLOps infrastructure on GCP, AWS, and Azure. Currently on the Effilab AI team at Decathlon France, pursuing my Master 2 in Data Science at JUNIA ISEN.
+## Current Position @ Decathlon
 
-Junior World Champion in Freestyle Football (2019). 2x Vice-Champion of France. Top 15 World Ranking.
+<div align="center">
+  <img src="https://img.shields.io/badge/Company-Decathlon%20France-0082C9?style=for-the-badge&logo=decathlon&logoColor=white" />
+  <img src="https://img.shields.io/badge/Role-Data%20Scientist%20%2F%20%20ML%20Engineering-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Contract-Professional%20Training-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Period-Sept%202025%20--%20Aug%202026-4ECDC4?style=for-the-badge" />
+</div>
 
 ---
 
-**Available for freelance AI/ML projects** — RAG systems · LLM agents · MLOps pipelines · Cloud deployment
+## Featured Project: Decathlon Belgium Sales Forecasting Pipeline (Internship)
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-In%20Production-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Team-Data%20Science-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Period-MAY%202025%20--%20Aug%202025-4ECDC4?style=for-the-badge" />
+</div>
+
+### Project Overview
+During my 3-month internship at **Decathlon Belgium** (2025), I designed and implemented an **end-to-end automated forecasting pipeline**, replacing manual processes with a scalable ML solution that predicts sales across 60+ sports categories.
+
+### Key Achievements:
+- **Improved Accuracy**: Improved forecast accuracy by ~10-15% compared to previous manual methods
+- **Automation**: Reduced forecasting time from several days of manual work to ~10 minutes of automated processing
+- **Scalability**: Successfully handles 60+ sports categories with parallel processing using joblib
+- **Model Performance**: Prophet outperformed other models (LightGBM, XGBoost, Chronos) with 66.7% win rate across evaluation metrics
+- **Business Impact**: Replaced manual Google Sheets processes with automated, reliable weekly forecasts
+
+### Technical Stack:
+<div align="center">
+  
+| Component | Technologies |
+|-----------|-------------|
+| **ML Models** | Prophet, LightGBM, XGBoost, Chronos-Bolt |
+| **Data Processing** | PySpark, Pandas, NumPy |
+| **MLOps** | MLflow, Databricks, Airflow |
+| **Cloud Infrastructure** | AWS (S3), GCP (Vertex AI) |
+| **Feature Engineering** | Weather data integration, Holiday calendars, Advanced time series features |
+| **Deployment** | Docker, CI/CD pipelines, Automated reporting |
+
+</div>
 
 ---
 
-### Featured Projects
+## Technical Skills
 
-| Project | Stack | What it does |
-|:--------|:------|:-------------|
-| [Rag-Equity-Research-Agent](https://github.com/nolancacheux/Rag-Equity-Research-Agent) | LangGraph, Qdrant, Azure | Autonomous equity research. Multi-source analysis (SEC 10-K, Yahoo Finance, Reddit), hybrid RAG. |
-| [AI-Video-Comment-Analyzer](https://github.com/nolancacheux/AI-Video-Comment-Analyzer) | BERT, BERTopic, FastAPI | YouTube comment analysis with sentiment detection, topic clustering, LLM summaries. |
-| [AI-Chess-Assistant](https://github.com/nolancacheux/AI-Chess-Assistant) | TypeScript, Stockfish, Vite | Chrome extension for chess.com. Real-time position analysis and move evaluation. |
-| [AI-Product-Photo-Detector](https://github.com/nolancacheux/AI-Product-Photo-Detector) | EfficientNet, MLflow, FastAPI | MLOps pipeline for AI-generated image detection. Experiment tracking, drift monitoring. |
-| [AI-Visualizer](https://github.com/nolancacheux/AI-Visualizer-Neural-Network-Architecture) | Three.js, React, Next.js | Interactive 3D neural network architecture explorer. |
-| [distributed-data-platform](https://github.com/nolancacheux/distributed-data-platform) | Spark, Kubernetes, DuckDB | Multi-database distributed platform with ELT pipelines. |
+<div align="center">
 
----
+| **Category** | **Technologies** |
+|:---:|---|
+| **Data Science & Analytics** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![VerticaPy](https://img.shields.io/badge/VerticaPy-0096D6?style=flat&logo=vertica&logoColor=white) ![JupyterLab](https://img.shields.io/badge/JupyterLab-F37626?style=flat&logo=jupyter&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) |
+| **Machine Learning & MLOps** | ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Prophet](https://img.shields.io/badge/Prophet-4285F4?style=flat&logo=meta&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat&logo=xgboost&logoColor=white) ![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat&logo=microsoft&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white) ![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-4CAF50?style=flat&logo=datacamp&logoColor=white) ![Time Series](https://img.shields.io/badge/Time_Series-9C27B0?style=flat&logo=chart-dot-js&logoColor=white) |
+| **Cloud & Big Data** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white) ![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white) ![Bedrock](https://img.shields.io/badge/Bedrock-FF9900?style=flat&logo=amazon&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white) ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat&logo=google&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white) ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+| **Programming Languages** | ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white) ![Assembly](https://img.shields.io/badge/Assembly-000000?style=flat&logo=assemblyscript&logoColor=white) |
+| **Web Development** | ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat&logo=apachecassandra&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat&logo=minio&logoColor=white) ![NoSQL](https://img.shields.io/badge/NoSQL-4EA94B?style=flat&logo=mongodb&logoColor=white) |
+| **Tools & DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Microsoft Office](https://img.shields.io/badge/Office-D83B01?style=flat&logo=microsoft-office&logoColor=white) ![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=flat&logo=libreoffice&logoColor=white) |
 
-### Technical Skills
+</div>
 
-**AI/ML** — Python, LangChain, LangGraph, TensorFlow, scikit-learn, Prophet, XGBoost, Transformers, MLflow
 
-**Cloud & Data** — GCP (Vertex AI, Cloud Run), AWS (S3, SageMaker, Bedrock), Azure, Databricks, PySpark, Airflow, Terraform, Docker
+## Let's Connect!
 
-**Backend** — FastAPI, Node.js, Express, NestJS, PostgreSQL, MongoDB, Redis
+<div align="center">
+  <p>
+    <b>I'm always open to discussing:</b><br/>
+    ML/AI Projects | Innovative Ideas | Collaborations | Data Science Opportunities
+  </p>
+  
+  <a href="https://www.linkedin.com/in/nolan-cacheux-aa40a9235">
+    <img src="https://img.shields.io/badge/Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nolan.cacheux@decathlon.com">
+    <img src="https://img.shields.io/badge/Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://portfolio-nolan-cacheuxs-projects.vercel.app">
+    <img src="https://img.shields.io/badge/Visit%20Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />
+  </a>
+</div>
 
-**Frontend** — React, Next.js, TypeScript, Three.js
 
----
-
+<!-- Snake Animation -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nolancacheux/nolancacheux/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nolancacheux/nolancacheux/output/github-contribution-grid-snake.svg">
-    <img alt="contribution graph" src="https://raw.githubusercontent.com/nolancacheux/nolancacheux/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nolancacheux/nolancacheux/output/github-contribution-grid-snake.svg">
   </picture>
+</div>
+
+---
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&animation=twinkling" />
+  
+  <p>
+    <i>"Turning data into decisions, one model at a time"</i>
+  </p>
+  
+  <p>
+    Made with passion by Nolan Cacheux | © 2025
+  </p>
 </div>
