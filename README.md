@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./header.svg" width="100%" alt="Nolan Cacheux - AI & ML Engineer"/>
+  <img src="./header.png" width="100%" alt="Nolan Cacheux - AI & ML Engineer"/>
 </div>
 
 <br/>
