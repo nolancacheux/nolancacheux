@@ -1,21 +1,21 @@
 <!-- Header -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Nolan%20Cacheux&fontSize=80&fontAlignY=35&desc=AI%20%26%20ML%20Engineer&descAlignY=55&fontColor=ffffff&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1a2e,50:16213e,100:0f3460&amp;height=200&amp;section=header&amp;text=Nolan%20Cacheux&amp;fontSize=80&amp;fontAlignY=35&amp;desc=Data%20Scientist%20%7C%20AI/ML%20Engineering%20@%20Decathlon&amp;descAlignY=55&amp;fontColor=ffffff&amp;animation=fadeIn" />
 </div>
 
 <!-- Social Badges -->
 <div align="center">
   <a href="https://www.linkedin.com/in/nolancacheux">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:cachnolan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email" />
   </a>
   <a href="https://portfolio-nolan-cacheuxs-projects.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&amp;logo=google--chrome&amp;logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://nolanfree.fr">
-    <img src="https://img.shields.io/badge/Freestyle-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Freestyle" />
+    <img src="https://img.shields.io/badge/Freestyle-FF7139?style=flat-square&amp;logo=Firefox--Browser&amp;logoColor=white" alt="Freestyle" />
   </a>
 </div>
 
@@ -46,14 +46,14 @@
 
 <div align="center">
   <a href="https://portfolio-nolan-cacheuxs-projects.vercel.app">
-    <img src="https://img.shields.io/badge/View%20Full%20Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/View%20Full%20Portfolio-4285F4?style=flat-square&amp;logo=google--chrome&amp;logoColor=white" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Available%20for%20Freelance-AI%2FML%20Engineering%20·%20RAG%20·%20LLM%20·%20Agents-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Available%20for%20Freelance-AI%2FML%20Engineering%20·%20RAG%20·%20LLM%20·%20Agents-FF6B6B?style=flat-square" />
 </div>
 
 ---
@@ -87,7 +87,7 @@
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1a2e,50:16213e,100:0f3460&amp;height=100&amp;section=footer&amp;animation=twinkling" />
   
   <p>
     <i>"Turning data into decisions, one model at a time"</i>
