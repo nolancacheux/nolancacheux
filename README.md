@@ -3,6 +3,10 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1a2e,50:16213e,100:0f3460&amp;height=200&amp;section=header&amp;text=Nolan%20Cacheux&amp;fontSize=80&amp;fontAlignY=35&amp;desc=Data%20Scientist%20%7C%20AI/ML%20Engineering%20@%20Decathlon&amp;descAlignY=55&amp;fontColor=ffffff&amp;animation=fadeIn" />
 </div>
 
+**AI & ML Engineer** at **Decathlon France** (Effilab AI team), pursuing my Master 2 in Data Science at **JUNIA ISEN**. I build production-grade ML systems: RAG pipelines, LLM agents, forecasting models, and MLOps infrastructure on GCP/AWS/Azure.
+
+**Beyond Tech:** Junior World Champion in Freestyle Football (2019), 2x Vice-Champion of France (2024, 2025), Top 15 World Ranking. Founder of Nolan-Free Association.
+
 <!-- Social Badges -->
 <div align="center">
   <a href="https://www.linkedin.com/in/nolancacheux">
@@ -18,14 +22,6 @@
     <img src="https://img.shields.io/badge/Freestyle-FF7139?style=flat-square&amp;logo=Firefox--Browser&amp;logoColor=white" alt="Freestyle" />
   </a>
 </div>
-
-<br/>
-
-## About Me
-
-**AI & ML Engineer** at **Decathlon France** (Effilab AI team), pursuing my Master 2 in Data Science at **JUNIA ISEN**. I build production-grade ML systems: RAG pipelines, LLM agents, forecasting models, and MLOps infrastructure on GCP/AWS/Azure.
-
-**Beyond Tech:** Junior World Champion in Freestyle Football (2019), 2x Vice-Champion of France (2024, 2025), Top 15 World Ranking. Founder of Nolan-Free Association.
 
 ---
 
