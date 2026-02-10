@@ -31,7 +31,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -48,14 +48,14 @@
 
 <div align="center">
   <a href="https://portfolio-nolan-cacheuxs-projects.vercel.app">
-    <img src="https://img.shields.io/badge/🌐%20View%20Full%20Portfolio-4285F4?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/View%20Full%20Portfolio-4285F4?style=for-the-badge&logoColor=white" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/💼%20Available%20for%20Freelance-AI%2FML%20Engineering%20·%20RAG%20·%20LLM%20·%20Agents-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Available%20for%20Freelance-AI%2FML%20Engineering%20·%20RAG%20·%20LLM%20·%20Agents-FF6B6B?style=for-the-badge" />
 </div>
 
 ---
