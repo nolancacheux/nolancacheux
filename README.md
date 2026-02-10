@@ -1,22 +1,20 @@
-<!-- Header Animation -->
+<!-- Header -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Nolan%20Cacheux&fontSize=90&fontAlignY=35&desc=Data%20Scientist%20%7C%20AI/ML%20Engineering%20@%20Decathlon&descAlignY=55&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Nolan%20Cacheux&fontSize=80&fontAlignY=35&desc=AI%20%26%20ML%20Engineer&descAlignY=55&fontColor=ffffff&animation=fadeIn" />
 </div>
-
-
 
 <!-- Social Badges -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/nolan-cacheux-aa40a9235">
+  <a href="https://www.linkedin.com/in/nolancacheux">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:cachnolan@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/nolancacheux">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://portfolio-nolan-cacheuxs-projects.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-    <a href="https://nolanfree.fr">
+  <a href="https://nolanfree.fr">
     <img src="https://img.shields.io/badge/Freestyle-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Freestyle" />
   </a>
 </div>
@@ -31,7 +29,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -48,14 +46,14 @@
 
 <div align="center">
   <a href="https://portfolio-nolan-cacheuxs-projects.vercel.app">
-    <img src="https://img.shields.io/badge/🌐%20View%20Full%20Portfolio-4285F4?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/View%20Full%20Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/💼%20Available%20for%20Freelance-AI%2FML%20Engineering%20·%20RAG%20·%20LLM%20·%20Agents-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Available%20for%20Freelance-AI%2FML%20Engineering%20·%20RAG%20·%20LLM%20·%20Agents-FF6B6B?style=for-the-badge" />
 </div>
 
 ---
