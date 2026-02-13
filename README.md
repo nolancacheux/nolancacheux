@@ -15,7 +15,7 @@
   <a href="mailto:cachnolan@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email" />
   </a>
-  <a href="https://portfolio-nolan-cacheuxs-projects.vercel.app">
+  <a href="https://nolancacheux.com">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&amp;logo=google--chrome&amp;logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://nolanfree.fr">
@@ -41,7 +41,7 @@
 </div>
 
 <div align="center">
-  <a href="https://portfolio-nolan-cacheuxs-projects.vercel.app">
+  <a href="https://nolancacheux.com">
     <img src="https://img.shields.io/badge/View%20Full%20Portfolio-4285F4?style=flat-square&amp;logo=google--chrome&amp;logoColor=white" />
   </a>
 </div>
