@@ -44,8 +44,6 @@ I build production-ready AI systems: enterprise agents, governed RAG, ML pipelin
 
 ## Stack
 
-Same stack as my CV.
-
 | Category | Tools |
 |:--|:--|
 | **AI/ML Engineering** | LangChain, LangGraph, HuggingFace, RAG, Vector Databases (Vertex AI, FAISS, Chroma DB, Qdrant, Pinecone, Weaviate), Finetuning, Python, PyTorch, TensorFlow, scikit-learn, XGBoost, LightGBM, Prophet, Forecast, BERTopic, Pandas, NumPy, MLOps, MLflow, W&B |
