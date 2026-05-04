@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B3E91,50:007BFF,100:0B3E91&amp;height=210&amp;section=header&amp;text=Nolan%20Cacheux&amp;fontSize=78&amp;fontAlignY=35&amp;desc=AI%2FML%20Engineer%20%E2%80%A2%20Enterprise%20Agents%2C%20RAG%20%26%20MLOps&amp;descAlignY=56&amp;fontColor=ffffff&amp;animation=fadeIn" alt="Nolan Cacheux — AI/ML Engineer • Enterprise Agents, RAG & MLOps" />
+  <img width="100%" src="./header.svg" alt="Nolan Cacheux — AI/ML Engineer • Enterprise Agents, RAG & MLOps" />
 </div>
 
 <div align="center">
@@ -39,7 +39,7 @@ I build production-ready AI systems: enterprise agents, governed RAG, ML pipelin
 
 <div align="center">
   <a href="https://nolancacheux.com/work">
-    <img src="https://img.shields.io/badge/View%20full%20portfolio-Projects%20%26%20case%20studies-007BFF?style=flat-square&amp;logo=google-chrome&amp;logoColor=white" alt="View full portfolio" />
+    <img src="https://img.shields.io/badge/View%20full%20portfolio-Projects%20%26%20case%20studies-007BFF?style=flat-square&logo=google-chrome&logoColor=white" alt="View full portfolio" />
   </a>
 </div>
 
@@ -47,12 +47,15 @@ I build production-ready AI systems: enterprise agents, governed RAG, ML pipelin
 
 ## Stack
 
+Same stack as my CV.
+
 | Category | Tools |
 |:--|:--|
-| **AI / ML** | Python, PyTorch, TensorFlow, scikit-learn, XGBoost, LightGBM, LangChain, LangGraph, RAG, Hugging Face, BERTopic |
-| **MLOps & Evaluation** | MLflow, W&B, DVC, Docker, Terraform, GitHub Actions, model monitoring, LLM evaluation, observability |
-| **Cloud & Data** | GCP, Vertex AI, Cloud Run, AWS, Azure, Databricks, Spark / PySpark, Delta Lake, SQL, PostgreSQL, MongoDB, Redis |
-| **Backend & Product** | FastAPI, Pydantic, REST APIs, Next.js, React, TypeScript, Tailwind CSS, Pytest |
+| **AI/ML Engineering** | LangChain, LangGraph, HuggingFace, RAG, Vector Databases (Vertex AI, FAISS, Chroma DB, Qdrant, Pinecone, Weaviate), Finetuning, Python, PyTorch, TensorFlow, scikit-learn, XGBoost, LightGBM, Prophet, Forecast, BERTopic, Pandas, NumPy, MLOps, MLflow, W&B |
+| **Cloud Platforms** | GCP (Cloud Run, Cloud SQL, Cloud Storage, Cloud Scheduler, IAM, VPC networks, Vertex AI), AWS (Airflow/MWAA, EKS, S3, ECR, SageMaker, Bedrock), Azure (Container Apps, Azure OpenAI, App Service, Storage, Key Vault) |
+| **Big Data & Data Engineering** | Apache Spark / PySpark, Databricks, Delta Lake, SQL, PostgreSQL, MongoDB, Redis, Neo4j, Cassandra |
+| **Infrastructure & DevOps** | FastAPI, Pydantic, Docker, Terraform, GitHub Actions (CI/CD), SonarCloud |
+| **Teamwork** | Git, GitHub, Jira, Confluence, Agile/Scrum |
 
 ---
 
@@ -74,6 +77,5 @@ Professional freestyle football athlete and association president since 2019: **
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B3E91,50:007BFF,100:0B3E91&amp;height=100&amp;section=footer&amp;animation=twinkling" alt="Footer wave" />
   <p><em>Building AI systems that move from prototype to production.</em></p>
 </div>
