@@ -1,9 +1,6 @@
-<!-- Header -->
 <div align="center">
-  <img width="100%" src="./header.svg" alt="Nolan Cacheux — AI/ML Engineer • Enterprise Agents, RAG & MLOps" />
-</div>
 
-<div align="center">
+# Nolan Cacheux
 
 **AI/ML Engineer • Enterprise Agents, RAG & MLOps**
 
@@ -62,17 +59,6 @@ Same stack as my CV.
 ## Beyond code
 
 Professional freestyle football athlete and association president since 2019: **Junior World Champion**, **Top 5 Europe**, **Top 15 World**, **35M+ views**, and **300+ performances** for clubs, brands, and media.
-
----
-
-<!-- Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nolancacheux/nolancacheux/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nolancacheux/nolancacheux/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/nolancacheux/nolancacheux/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
 
 ---
 
